@@ -25,10 +25,10 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Thiago Mariano",
-  title: "Marketing Digital e Desenvolvimento",
+  title: "Marketing Digital e Desenvolvimento Web",
   email: "thiagomarianotvdigital321@gmail.com",
-  gitHub: "thiagomarianodeveloper",
-  instagram: "thiagomariano",
+  gitHub: "ThiagoMarianoDeveloper",
+  instagram: "thiagomariano729",
 };
 
 const primaryColor = "#4E567E";

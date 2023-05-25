@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Marketing Digital",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Marketing digital são ações de comunicação que as empresas podem utilizar por meio da internet, da telefonia celular e outros meios digitais, para assim divulgar e comercializar seus produtos ou serviços, conquistando novos clientes e melhorando a sua rede de relacionamentos.",
+    url: "https://github.com/ThiagoMarianoDeveloper",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Desenvolvimento Web",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "O desenvolvimento web inclui criação, codificação e programação de sites e seus respectivos elementos e linguagens. Ele também envolve integração com sistemas e ferramentas, armazenamento de banco de dados, cibersegurança, entre outros, com o objetivo de estruturar cada detalhe de uma página da internet.",
+    url: "https://github.com/ThiagoMarianoDeveloper",
   },
   {
-    title: "My Resume Site",
+    title: "Tecnologia",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas.",
+    url: "https://github.com/ThiagoMarianoDeveloper",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tecnólogo em Sistemas para Internet",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "O tecnólogo em Sistemas para Internet desenvolve e implanta sistemas informatizados, dimensionando requisitos e funcionalidades, especificando sua arquitetura, escolhendo ferramentas de desenvolvimento e programas e codificando aplicativos.",
+    url: "https://github.com/ThiagoMarianoDeveloper",
   },
 ];
 
