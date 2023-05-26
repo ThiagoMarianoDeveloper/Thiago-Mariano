@@ -27192,7 +27192,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "Sou apaixonado por Tecnologia, Marketing Digital e Desenvolvimento Web. Aproveitando minha experi\xeancia em TSI, procuro continuamente formas de tornar a tecnologia acess\xedvel a todos.";
+ */ const detailOrQuote = "Aproveitando minha experi\xeancia em TSI, procuro continuamente formas de tornar a tecnologia acess\xedvel a todos.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
