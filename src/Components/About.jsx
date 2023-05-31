@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Sou apaixonado por Tecnologia, Marketing Digital e Desenvolvimento Web. Aproveitando minha experiência em TSI, procuro continuamente formas de tornar a tecnologia acessível a todos.";
+  "Aproveitando minha experiência em TSI, procuro continuamente formas de tornar a tecnologia acessível a todos.";
 
 const About = () => {
   return (
